@@ -2,3 +2,6 @@ streamlit
 sqlalchemy
 python-dotenv
 google-generativeai
+PyPDF2
+Pillow
+pytesseract
